@@ -1,0 +1,4 @@
+MyVaadinTemplate
+================
+
+Template
